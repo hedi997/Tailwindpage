@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myContainer {
+  background-image: url(images/tw-background.jpg);
+  background-size: cover;
+  background-position: center;
+}
